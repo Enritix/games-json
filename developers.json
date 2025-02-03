@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "name": "Nintendo",
+    "foundedYear": 1889,
+    "isIndie": false,
+    "headquarters": "Kyoto, Japan",
+    "logoUrl": "https://example.com/images/nintendo_logo.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Mojang Studios",
+    "foundedYear": 2009,
+    "isIndie": true,
+    "headquarters": "Stockholm, Sweden",
+    "logoUrl": "https://example.com/images/mojang_logo.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Rockstar Games",
+    "foundedYear": 1998,
+    "isIndie": false,
+    "headquarters": "New York City, USA",
+    "logoUrl": "https://example.com/images/rockstar_logo.jpg"
+  },
+  {
+    "id": 104,
+    "name": "CD Projekt Red",
+    "foundedYear": 1994,
+    "isIndie": false,
+    "headquarters": "Warsaw, Poland",
+    "logoUrl": "https://example.com/images/cdprojekt_logo.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Epic Games",
+    "foundedYear": 1991,
+    "isIndie": false,
+    "headquarters": "Cary, North Carolina, USA",
+    "logoUrl": "https://example.com/images/epicgames_logo.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Innersloth",
+    "foundedYear": 2015,
+    "isIndie": true,
+    "headquarters": "Redmond, Washington, USA",
+    "logoUrl": "https://example.com/images/innersloth_logo.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Blizzard Entertainment",
+    "foundedYear": 1991,
+    "isIndie": false,
+    "headquarters": "Irvine, California, USA",
+    "logoUrl": "https://example.com/images/blizzard_logo.jpg"
+  },
+  {
+    "id": 108,
+    "name": "343 Industries",
+    "foundedYear": 2007,
+    "isIndie": false,
+    "headquarters": "Redmond, Washington, USA",
+    "logoUrl": "https://example.com/images/343industries_logo.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Valve Corporation",
+    "foundedYear": 1996,
+    "isIndie": false,
+    "headquarters": "Bellevue, Washington, USA",
+    "logoUrl": "https://example.com/images/valve_logo.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Ubisoft",
+    "foundedYear": 1986,
+    "isIndie": false,
+    "headquarters": "Montreuil, France",
+    "logoUrl": "https://example.com/images/ubisoft_logo.jpg"
+  }
+]
