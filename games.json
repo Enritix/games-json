@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": "Een open-wereld actie-avonturenspel waarin spelers de wereld van Hyrule verkennen en puzzels oplossen.",
+    "releaseYear": 2017,
+    "isMultiplayer": false,
+    "releaseDate": "2017-03-03",
+    "imageUrl": "https://example.com/images/zelda.jpg",
+    "genre": "Action-Adventure",
+    "platforms": ["Nintendo Switch", "Wii U"],
+    "developer": {
+      "id": 101,
+      "name": "Nintendo",
+      "foundedYear": 1889,
+      "isIndie": false,
+      "logoUrl": "https://example.com/images/nintendo_logo.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Minecraft",
+    "description": "Een sandbox-game waarin spelers een oneindige wereld verkennen en bouwen met blokken.",
+    "releaseYear": 2011,
+    "isMultiplayer": true,
+    "releaseDate": "2011-11-18",
+    "imageUrl": "https://example.com/images/minecraft.jpg",
+    "genre": "Sandbox",
+    "platforms": ["PC", "Xbox", "PlayStation", "Nintendo Switch", "Mobile"],
+    "developer": {
+      "id": 102,
+      "name": "Mojang Studios",
+      "foundedYear": 2009,
+      "isIndie": true,
+      "logoUrl": "https://example.com/images/mojang_logo.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Grand Theft Auto V",
+    "description": "Een actie-avonturenspel met een open wereld waarin spelers drie hoofdpersonen volgen.",
+    "releaseYear": 2013,
+    "isMultiplayer": true,
+    "releaseDate": "2013-09-17",
+    "imageUrl": "https://example.com/images/gta5.jpg",
+    "genre": "Action",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "developer": {
+      "id": 103,
+      "name": "Rockstar Games",
+      "foundedYear": 1998,
+      "isIndie": false,
+      "logoUrl": "https://example.com/images/rockstar_logo.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "Een actie-RPG waarin spelers de monsterjager Geralt of Rivia besturen in een grote open wereld.",
+    "releaseYear": 2015,
+    "isMultiplayer": false,
+    "releaseDate": "2015-05-19",
+    "imageUrl": "https://example.com/images/witcher3.jpg",
+    "genre": "RPG",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "developer": {
+      "id": 104,
+      "name": "CD Projekt Red",
+      "foundedYear": 1994,
+      "isIndie": false,
+      "logoUrl": "https://example.com/images/cdprojekt_logo.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Fortnite",
+    "description": "Een battle royale game waarin spelers tegen elkaar strijden op een eiland en bouwen om te overleven.",
+    "releaseYear": 2017,
+    "isMultiplayer": true,
+    "releaseDate": "2017-07-25",
+    "imageUrl": "https://example.com/images/fortnite.jpg",
+    "genre": "Battle Royale",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "developer": {
+      "id": 105,
+      "name": "Epic Games",
+      "foundedYear": 1991,
+      "isIndie": false,
+      "logoUrl": "https://example.com/images/epicgames_logo.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Among Us",
+    "description": "Een multiplayer-spel waarin spelers samenwerken om taken te voltooien terwijl ze een bedrieger proberen te ontmaskeren.",
+    "releaseYear": 2018,
+    "isMultiplayer": true,
+    "releaseDate": "2018-06-15",
+    "imageUrl": "https://example.com/images/amongus.jpg",
+    "genre": "Party",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "developer": {
+      "id": 106,
+      "name": "Innersloth",
+      "foundedYear": 2015,
+      "isIndie": true,
+      "logoUrl": "https://example.com/images/innersloth_logo.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cyberpunk 2077",
+    "description": "Een futuristische RPG waarin spelers de rol aannemen van V, een huurling op zoek naar onsterfelijkheid.",
+    "releaseYear": 2020,
+    "isMultiplayer": false,
+    "releaseDate": "2020-12-10",
+    "imageUrl": "https://example.com/images/cyberpunk2077.jpg",
+    "genre": "RPG",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "developer": {
+      "id": 104,
+      "name": "CD Projekt Red",
+      "foundedYear": 1994,
+      "isIndie": false,
+      "logoUrl": "https://example.com/images/cdprojekt_logo.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Overwatch 2",
+    "description": "Een teamgebaseerde shooter waarin spelers strijden als helden met unieke vaardigheden.",
+    "releaseYear": 2022,
+    "isMultiplayer": true,
+    "releaseDate": "2022-10-04",
+    "imageUrl": "https://example.com/images/overwatch2.jpg",
+    "genre": "Shooter",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "developer": {
+      "id": 107,
+      "name": "Blizzard Entertainment",
+      "foundedYear": 1991,
+      "isIndie": false,
+      "logoUrl": "https://example.com/images/blizzard_logo.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Red Dead Redemption 2",
+    "description": "Een western actie-avonturenspel waarin spelers de crimineel Arthur Morgan besturen in een open wereld.",
+    "releaseYear": 2018,
+    "isMultiplayer": true,
+    "releaseDate": "2018-10-26",
+    "imageUrl": "https://example.com/images/rdr2.jpg",
+    "genre": "Action-Adventure",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "developer": {
+      "id": 103,
+      "name": "Rockstar Games",
+      "foundedYear": 1998,
+      "isIndie": false,
+      "logoUrl": "https://example.com/images/rockstar_logo.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Halo Infinite",
+    "description": "Een first-person shooter waarin spelers vechten tegen buitenaardse vijanden in de Halo-wereld.",
+    "releaseYear": 2021,
+    "isMultiplayer": true,
+    "releaseDate": "2021-12-08",
+    "imageUrl": "https://example.com/images/halo.jpg",
+    "genre": "Shooter",
+    "platforms": ["PC", "Xbox"],
+    "developer": {
+      "id": 108,
+      "name": "343 Industries",
+      "foundedYear": 2007,
+      "isIndie": false,
+      "logoUrl": "https://example.com/images/343industries_logo.jpg"
+    }
+  }
+]
