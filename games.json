@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "The Legend of Zelda: Breath of the Wild",
-    "description": "Een open-wereld actie-avonturenspel waarin spelers de wereld van Hyrule verkennen en puzzels oplossen.",
+    "description": "An open-world action-adventure game in which players explore the world of Hyrule and solve puzzles.",
     "releaseYear": 2017,
     "isMultiplayer": false,
     "releaseDate": "2017-03-03",
-    "imageUrl": "https://example.com/images/zelda.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/zelda.jpg",
     "genre": "Action-Adventure",
     "platforms": ["Nintendo Switch", "Wii U"],
     "developer": {
@@ -14,17 +14,17 @@
       "name": "Nintendo",
       "foundedYear": 1889,
       "isIndie": false,
-      "logoUrl": "https://example.com/images/nintendo_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/nintendo.jpg"
     }
   },
   {
     "id": 2,
     "name": "Minecraft",
-    "description": "Een sandbox-game waarin spelers een oneindige wereld verkennen en bouwen met blokken.",
+    "description": "A sandbox game in which players explore an infinite world and build with blocks.",
     "releaseYear": 2011,
     "isMultiplayer": true,
     "releaseDate": "2011-11-18",
-    "imageUrl": "https://example.com/images/minecraft.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/minecraft.jpg",
     "genre": "Sandbox",
     "platforms": ["PC", "Xbox", "PlayStation", "Nintendo Switch", "Mobile"],
     "developer": {
@@ -32,17 +32,17 @@
       "name": "Mojang Studios",
       "foundedYear": 2009,
       "isIndie": true,
-      "logoUrl": "https://example.com/images/mojang_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/mojang-studios.jpg"
     }
   },
   {
     "id": 3,
     "name": "Grand Theft Auto V",
-    "description": "Een actie-avonturenspel met een open wereld waarin spelers drie hoofdpersonen volgen.",
+    "description": "An action-adventure game with an open world in which players follow three main characters who plan heists.",
     "releaseYear": 2013,
     "isMultiplayer": true,
     "releaseDate": "2013-09-17",
-    "imageUrl": "https://example.com/images/gta5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/gta-v.jpg",
     "genre": "Action",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "developer": {
@@ -50,17 +50,17 @@
       "name": "Rockstar Games",
       "foundedYear": 1998,
       "isIndie": false,
-      "logoUrl": "https://example.com/images/rockstar_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/rockstar-games.jpeg"
     }
   },
   {
     "id": 4,
     "name": "The Witcher 3: Wild Hunt",
-    "description": "Een actie-RPG waarin spelers de monsterjager Geralt of Rivia besturen in een grote open wereld.",
+    "description": "An action-RPG in which players control the monster hunter Geralt of Rivia in a vast open world.",
     "releaseYear": 2015,
     "isMultiplayer": false,
     "releaseDate": "2015-05-19",
-    "imageUrl": "https://example.com/images/witcher3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/the-witcher-3.jpg",
     "genre": "RPG",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "developer": {
@@ -68,17 +68,17 @@
       "name": "CD Projekt Red",
       "foundedYear": 1994,
       "isIndie": false,
-      "logoUrl": "https://example.com/images/cdprojekt_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/cd-projekt-red.jpg"
     }
   },
   {
     "id": 5,
     "name": "Fortnite",
-    "description": "Een battle royale game waarin spelers tegen elkaar strijden op een eiland en bouwen om te overleven.",
+    "description": "A battle royale game in which players compete against each other on an island and build to survive.",
     "releaseYear": 2017,
     "isMultiplayer": true,
     "releaseDate": "2017-07-25",
-    "imageUrl": "https://example.com/images/fortnite.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/fortnite.jpg",
     "genre": "Battle Royale",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "developer": {
@@ -86,17 +86,17 @@
       "name": "Epic Games",
       "foundedYear": 1991,
       "isIndie": false,
-      "logoUrl": "https://example.com/images/epicgames_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/epic-games.jpg"
     }
   },
   {
     "id": 6,
     "name": "Among Us",
-    "description": "Een multiplayer-spel waarin spelers samenwerken om taken te voltooien terwijl ze een bedrieger proberen te ontmaskeren.",
+    "description": "A multiplayer game in which players work together to complete tasks while trying to unmask an impostor.",
     "releaseYear": 2018,
     "isMultiplayer": true,
     "releaseDate": "2018-06-15",
-    "imageUrl": "https://example.com/images/amongus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/among%20us.jpg",
     "genre": "Party",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "developer": {
@@ -104,17 +104,17 @@
       "name": "Innersloth",
       "foundedYear": 2015,
       "isIndie": true,
-      "logoUrl": "https://example.com/images/innersloth_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/innersloth.jpg"
     }
   },
   {
     "id": 7,
     "name": "Cyberpunk 2077",
-    "description": "Een futuristische RPG waarin spelers de rol aannemen van V, een huurling op zoek naar onsterfelijkheid.",
+    "description": "A futuristic RPG in which players take on the role of V, a mercenary in search of immortality.",
     "releaseYear": 2020,
     "isMultiplayer": false,
     "releaseDate": "2020-12-10",
-    "imageUrl": "https://example.com/images/cyberpunk2077.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/cyberpunk-2077.jpg",
     "genre": "RPG",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "developer": {
@@ -122,17 +122,17 @@
       "name": "CD Projekt Red",
       "foundedYear": 1994,
       "isIndie": false,
-      "logoUrl": "https://example.com/images/cdprojekt_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/cd-projekt-red.jpg"
     }
   },
   {
     "id": 8,
     "name": "Overwatch 2",
-    "description": "Een teamgebaseerde shooter waarin spelers strijden als helden met unieke vaardigheden.",
+    "description": "A team-based shooter in which players battle as heroes with unique abilities.",
     "releaseYear": 2022,
     "isMultiplayer": true,
     "releaseDate": "2022-10-04",
-    "imageUrl": "https://example.com/images/overwatch2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/overwatch-2.jpg",
     "genre": "Shooter",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "developer": {
@@ -140,17 +140,17 @@
       "name": "Blizzard Entertainment",
       "foundedYear": 1991,
       "isIndie": false,
-      "logoUrl": "https://example.com/images/blizzard_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/blizzard-entertainment.jpg"
     }
   },
   {
     "id": 9,
     "name": "Red Dead Redemption 2",
-    "description": "Een western actie-avonturenspel waarin spelers de crimineel Arthur Morgan besturen in een open wereld.",
+    "description": "A western action-adventure game in which players control the criminal Arthur Morgan in an open world.",
     "releaseYear": 2018,
     "isMultiplayer": true,
     "releaseDate": "2018-10-26",
-    "imageUrl": "https://example.com/images/rdr2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/rdr2.jpg",
     "genre": "Action-Adventure",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "developer": {
@@ -158,17 +158,17 @@
       "name": "Rockstar Games",
       "foundedYear": 1998,
       "isIndie": false,
-      "logoUrl": "https://example.com/images/rockstar_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/rockstar-games.jpeg"
     }
   },
   {
     "id": 10,
     "name": "Halo Infinite",
-    "description": "Een first-person shooter waarin spelers vechten tegen buitenaardse vijanden in de Halo-wereld.",
+    "description": "A first-person shooter in which players fight against alien enemies in the Halo world.",
     "releaseYear": 2021,
     "isMultiplayer": true,
     "releaseDate": "2021-12-08",
-    "imageUrl": "https://example.com/images/halo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/halo.jpg",
     "genre": "Shooter",
     "platforms": ["PC", "Xbox"],
     "developer": {
@@ -176,7 +176,7 @@
       "name": "343 Industries",
       "foundedYear": 2007,
       "isIndie": false,
-      "logoUrl": "https://example.com/images/343industries_logo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/343-industries.jpg"
     }
   }
 ]
