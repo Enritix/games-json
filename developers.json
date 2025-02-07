@@ -5,7 +5,7 @@
     "foundedYear": 1889,
     "isIndie": false,
     "headquarters": "Kyoto, Japan",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/nintendo.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/nintendo.jpg"
   },
   {
     "id": 102,
@@ -13,7 +13,7 @@
     "foundedYear": 2009,
     "isIndie": true,
     "headquarters": "Stockholm, Sweden",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/mojang-studios.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/mojang-studios.jpg"
   },
   {
     "id": 103,
@@ -21,7 +21,7 @@
     "foundedYear": 1998,
     "isIndie": false,
     "headquarters": "New York City, USA",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/rockstar-games.jpeg"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/rockstar-games.jpeg"
   },
   {
     "id": 104,
@@ -29,7 +29,7 @@
     "foundedYear": 1994,
     "isIndie": false,
     "headquarters": "Warsaw, Poland",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/cd-projekt-red.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/cd-projekt-red.jpg"
   },
   {
     "id": 105,
@@ -37,7 +37,7 @@
     "foundedYear": 1991,
     "isIndie": false,
     "headquarters": "Cary, North Carolina, USA",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/epic-games.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/epic-games.jpg"
   },
   {
     "id": 106,
@@ -45,7 +45,7 @@
     "foundedYear": 2015,
     "isIndie": true,
     "headquarters": "Redmond, Washington, USA",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/innersloth.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/innersloth.jpg"
   },
   {
     "id": 107,
@@ -53,7 +53,7 @@
     "foundedYear": 1991,
     "isIndie": false,
     "headquarters": "Irvine, California, USA",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/blizzard-entertainment.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/blizzard-entertainment.jpg"
   },
   {
     "id": 108,
@@ -61,7 +61,7 @@
     "foundedYear": 2007,
     "isIndie": false,
     "headquarters": "Redmond, Washington, USA",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/343-industries.jpg"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/343-industries.jpg"
   },
   {
     "id": 109,
@@ -69,7 +69,7 @@
     "foundedYear": 1996,
     "isIndie": false,
     "headquarters": "Bellevue, Washington, USA",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/valve.png"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/valve.png"
   },
   {
     "id": 110,
@@ -77,6 +77,6 @@
     "foundedYear": 1986,
     "isIndie": false,
     "headquarters": "Montreuil, France",
-    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/ubisoft.png"
+    "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/ubisoft.png"
   }
 ]

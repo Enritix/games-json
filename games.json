@@ -6,7 +6,7 @@
     "releaseYear": 2017,
     "isMultiplayer": false,
     "releaseDate": "2017-03-03",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/zelda.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/zelda.jpg",
     "genre": "Action-Adventure",
     "platforms": ["Nintendo Switch", "Wii U"],
     "developer": {
@@ -14,7 +14,7 @@
       "name": "Nintendo",
       "foundedYear": 1889,
       "isIndie": false,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/nintendo.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/nintendo.jpg"
     }
   },
   {
@@ -24,7 +24,7 @@
     "releaseYear": 2011,
     "isMultiplayer": true,
     "releaseDate": "2011-11-18",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/minecraft.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/minecraft.jpg",
     "genre": "Sandbox",
     "platforms": ["PC", "Xbox", "PlayStation", "Nintendo Switch", "Mobile"],
     "developer": {
@@ -32,7 +32,7 @@
       "name": "Mojang Studios",
       "foundedYear": 2009,
       "isIndie": true,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/mojang-studios.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/mojang-studios.jpg"
     }
   },
   {
@@ -42,7 +42,7 @@
     "releaseYear": 2013,
     "isMultiplayer": true,
     "releaseDate": "2013-09-17",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/gta-v.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/gta-v.jpg",
     "genre": "Action",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "developer": {
@@ -50,7 +50,7 @@
       "name": "Rockstar Games",
       "foundedYear": 1998,
       "isIndie": false,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/rockstar-games.jpeg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/rockstar-games.jpeg"
     }
   },
   {
@@ -60,7 +60,7 @@
     "releaseYear": 2015,
     "isMultiplayer": false,
     "releaseDate": "2015-05-19",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/the-witcher-3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/the-witcher-3.jpg",
     "genre": "RPG",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "developer": {
@@ -68,7 +68,7 @@
       "name": "CD Projekt Red",
       "foundedYear": 1994,
       "isIndie": false,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/cd-projekt-red.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/cd-projekt-red.jpg"
     }
   },
   {
@@ -78,7 +78,7 @@
     "releaseYear": 2017,
     "isMultiplayer": true,
     "releaseDate": "2017-07-25",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/fortnite.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/fortnite.jpg",
     "genre": "Battle Royale",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "developer": {
@@ -86,7 +86,7 @@
       "name": "Epic Games",
       "foundedYear": 1991,
       "isIndie": false,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/epic-games.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/epic-games.jpg"
     }
   },
   {
@@ -96,7 +96,7 @@
     "releaseYear": 2018,
     "isMultiplayer": true,
     "releaseDate": "2018-06-15",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/among%20us.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/among%20us.jpg",
     "genre": "Party",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "developer": {
@@ -104,7 +104,7 @@
       "name": "Innersloth",
       "foundedYear": 2015,
       "isIndie": true,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/innersloth.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/innersloth.jpg"
     }
   },
   {
@@ -114,7 +114,7 @@
     "releaseYear": 2020,
     "isMultiplayer": false,
     "releaseDate": "2020-12-10",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/cyberpunk-2077.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/cyberpunk-2077.jpg",
     "genre": "RPG",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "developer": {
@@ -122,7 +122,7 @@
       "name": "CD Projekt Red",
       "foundedYear": 1994,
       "isIndie": false,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/cd-projekt-red.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/cd-projekt-red.jpg"
     }
   },
   {
@@ -132,7 +132,7 @@
     "releaseYear": 2022,
     "isMultiplayer": true,
     "releaseDate": "2022-10-04",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/overwatch-2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/overwatch-2.jpg",
     "genre": "Shooter",
     "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
     "developer": {
@@ -140,7 +140,7 @@
       "name": "Blizzard Entertainment",
       "foundedYear": 1991,
       "isIndie": false,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/blizzard-entertainment.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/blizzard-entertainment.jpg"
     }
   },
   {
@@ -150,7 +150,7 @@
     "releaseYear": 2018,
     "isMultiplayer": true,
     "releaseDate": "2018-10-26",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/rdr2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/rdr2.jpg",
     "genre": "Action-Adventure",
     "platforms": ["PC", "PlayStation", "Xbox"],
     "developer": {
@@ -158,7 +158,7 @@
       "name": "Rockstar Games",
       "foundedYear": 1998,
       "isIndie": false,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/rockstar-games.jpeg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/rockstar-games.jpeg"
     }
   },
   {
@@ -168,7 +168,7 @@
     "releaseYear": 2021,
     "isMultiplayer": true,
     "releaseDate": "2021-12-08",
-    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/games/halo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/games/halo.jpg",
     "genre": "Shooter",
     "platforms": ["PC", "Xbox"],
     "developer": {
@@ -176,7 +176,7 @@
       "name": "343 Industries",
       "foundedYear": 2007,
       "isIndie": false,
-      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/developers/343-industries.jpg"
+      "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/343-industries.jpg"
     }
   }
 ]
