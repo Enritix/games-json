@@ -14,6 +14,7 @@
       "name": "Nintendo",
       "foundedYear": 1889,
       "isIndie": false,
+      "headquarters": "Kyoto, Japan",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/nintendo.jpg"
     }
   },
@@ -32,6 +33,7 @@
       "name": "Mojang Studios",
       "foundedYear": 2009,
       "isIndie": true,
+      "headquarters": "Stockholm, Sweden",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/mojang-studios.jpg"
     }
   },
@@ -50,6 +52,7 @@
       "name": "Rockstar Games",
       "foundedYear": 1998,
       "isIndie": false,
+      "headquarters": "New York City, USA",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/rockstar-games.jpeg"
     }
   },
@@ -68,6 +71,7 @@
       "name": "CD Projekt Red",
       "foundedYear": 1994,
       "isIndie": false,
+      "headquarters": "Warsaw, Poland",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/cd-projekt-red.jpg"
     }
   },
@@ -86,6 +90,7 @@
       "name": "Epic Games",
       "foundedYear": 1991,
       "isIndie": false,
+      "headquarters": "Cary, North Carolina, USA",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/epic-games.jpg"
     }
   },
@@ -104,6 +109,7 @@
       "name": "Innersloth",
       "foundedYear": 2015,
       "isIndie": true,
+      "headquarters": "Redmond, Washington, USA",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/innersloth.jpg"
     }
   },
@@ -122,6 +128,7 @@
       "name": "CD Projekt Red",
       "foundedYear": 1994,
       "isIndie": false,
+      "headquarters": "Warsaw, Poland",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/cd-projekt-red.jpg"
     }
   },
@@ -140,6 +147,7 @@
       "name": "Blizzard Entertainment",
       "foundedYear": 1991,
       "isIndie": false,
+      "headquarters": "Irvine, California, USA",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/blizzard-entertainment.jpg"
     }
   },
@@ -158,6 +166,7 @@
       "name": "Rockstar Games",
       "foundedYear": 1998,
       "isIndie": false,
+      "headquarters": "New York City, USA",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/rockstar-games.jpeg"
     }
   },
@@ -176,6 +185,7 @@
       "name": "343 Industries",
       "foundedYear": 2007,
       "isIndie": false,
+      "headquarters": "Redmond, Washington, USA",
       "logoUrl": "https://raw.githubusercontent.com/Enritix/games-json/refs/heads/main/images/developers/343-industries.jpg"
     }
   }
